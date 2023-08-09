@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#util:unhurtable",
+    "minecraft:end_crystal"
+  ]
+}

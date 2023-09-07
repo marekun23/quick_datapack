@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#util:unhurtable",
+    "#quick:unhurtable",
     "minecraft:end_crystal"
   ]
 }

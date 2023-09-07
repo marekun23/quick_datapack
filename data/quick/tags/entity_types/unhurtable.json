@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#util:boats",
+    "#quick:boats",
     "minecraft:armor_stand",
     "minecraft:item",
     "minecraft:item_frame",

@@ -5,6 +5,7 @@
     "minecraft:zombie_villager",
     "minecraft:drowned",
     "minecraft:skeleton",
-    "minecraft:stray"
-   ]
+    "minecraft:stray",
+    "minecraft:bogged"
+  ]
 }

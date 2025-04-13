@@ -16,12 +16,10 @@
     "minecraft:slime",
     "minecraft:magma_cube",
     "minecraft:spider",
-    "minecraft:creeper",
     "minecraft:zombie",
     "minecraft:husk",
     "minecraft:zombie_villager",
-    "minecraft:enderman",
-    "minecraft:zombie_pigman",
+    "minecraft:piglin_brute",
     "minecraft:drowned",
     "minecraft:phantom",
     "minecraft:wither"
